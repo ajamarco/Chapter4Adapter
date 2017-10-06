@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter4Adapter</string>
+    <string name="text_header">Cars</string>
+    <string name="no_car">No car added</string>
+    <plurals name="text_footer">
+        <item quantity="zero">NO CAR ADDED</item>
+        <item quantity="one">1 car</item>
+        <item quantity="other">%d cars</item>
+    </plurals>
+</resources>
